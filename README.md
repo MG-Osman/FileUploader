@@ -13,9 +13,9 @@ To use the tool, simply run it from your command line, providing the path to the
 
 ### python catbox_uploader.py <file_path> [Optional Arguments]
 
-#### --userhash - Your Catbox user hash if you have one (optional):
+ --userhash - Your Catbox user hash if you have one (optional):
 
-#### example: python catbox_uploader.py <file_path> --userhash YOUR_USER_HASH
+ Example: python catbox_uploader.py <file_path> --userhash YOUR_USER_HASH
 
 
 ## Functionality
