@@ -22,7 +22,9 @@ To use the tool, simply run it from your command line, providing the path to the
 The tool has a simple function upload_to_catbox which takes the following arguments:
 
 file_path: The path to the file you want to upload.
+
 user_hash: Your Catbox user hash (optional).
+
 Upon successful upload, the tool prints the URL of the uploaded file. If the upload fails, it prints an error message with the status code or exception details.
 
 The GUI is intuitive so these are CLI based instructions
