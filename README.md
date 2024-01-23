@@ -1,15 +1,16 @@
 # FileUploader 🚀
-A cli based tool with a gui that allows quick uploads to catbox. Responds with url of the uploaded file
+A cli based tool with a gui that allows quick uploads to catbox from a given url or local file. Responds with catbox url of the uploaded file
 
+![image](https://github.com/MG-Osman/FileUploader/assets/58115228/19f40353-6bb3-4239-b137-b2c1022e3686)
 
-https://github.com/MG-Osman/FileUploader/assets/58115228/c1e6073f-77e6-4e69-9ba6-0c8aa030cbec
-
-*DEMO*
 
 
 ## Usage
 
-To use the tool, simply run it from your command line, providing the path to the file you wish to upload:
+### GUI: paste your url('s) in the top box and click 'process url'. one line per url. the log box will below will return the catbox url where the file was uploaded. Click 'Upload File' to browse for a file to uplload or alternatively, drag and drop the file.
+
+
+### CLI: To use the tool with CLI, simply run it from your command line, providing the path to the file you wish to upload:
 
 ### python catbox_uploader.py <file_path> [Optional Arguments]
 
