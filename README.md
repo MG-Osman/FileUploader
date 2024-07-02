@@ -1,9 +1,9 @@
 # FileUploader 🚀
 A cli based tool with a gui that allows quick uploads to catbox from a given url or local file. Responds with catbox url of the uploaded file
 
-![image](https://github.com/MG-Osman/FileUploader/assets/58115228/213d9810-1f0a-4e5f-8fd6-59bce199dbf5)
 
 
+![image](https://github.com/MG-Osman/FileUploader/assets/58115228/853daffb-29c7-45e2-b15d-b9118fab8208)
 
 
 ## Usage
